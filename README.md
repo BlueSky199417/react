@@ -2,9 +2,6 @@
 
 Welcome to my **personal portfolio website**! This is a fully responsive and modern portfolio built with **React.js** to showcase my skills, projects, experience, and journey as an **AI/ML student and web developer**. 🚀  
 
-## **🔗 Live Demo**  
-[Click here to visit my portfolio](https://moinsheikh.netlify.app/) 
-
 ---
 
 ## **📌 Features**  
